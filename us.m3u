@@ -1,9 +1,24 @@
 #EXTM3U
+#EXTINF:-1,US FOX Sports 1 Backup NO_14 alliptvlinks.com
+http://cord-cutter.net:8080/hq3y4G/234247/46792
+#EXTINF:-1,US CBS (WTVF) Nashville Backup NO_6 alliptvlinks.com
+http://cord-cutter.net:8080/zcJ8BG/214917/120798
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",ABC NASHVILLE WKRN Backup NO_2 alliptvlinks.com
+http://fortv.cc:8080/5ybSS2/616430/120860
 #EXTINF:-1 group-title="Sports Fanatic",US ESPN 1 (HD) Backup NO_15 alliptvlinks.com
 http://tvmate.icu:8080/vNay0H/219352/14197
+#EXTINF:-1,US FOX (WHBQ) Memphis Backup NO_6 alliptvlinks.com
+http://cord-cutter.net:8080/zcJ8BG/214917/120796
+#EXTINF:-1 group-title="Sports Fanatic",US Fox Sports 2 A Backup NO_7 alliptvlinks.com
+http://tvmate.icu:8080/vNay0H/219352/1847
 #EXTINF:-1 group-title="Sports Fanatic",US ESPN 2 Backup NO_9 alliptvlinks.com
 http://tvmate.icu:8080/vNay0H/219352/2210
 #EXTINF:-1 group-title="Sports Fanatic",US ESPNU College Sports Backup NO_6 alliptvlinks.com
 http://tvmate.icu:8080/vNay0H/219352/10255
 #EXTINF:-1,US NBC (WYFF) Greenville Backup NO_5 alliptvlinks.com
 http://cord-cutter.net:8080/zcJ8BG/214917/120788
+#EXTINF:-1 group-title="USA",US TNT East Backup NO_5 alliptvlinks.com
+http://tvmate.icu:8080/vNay0H/219352/10455
+#EXTINF:-1 group-title="Sports Fanatic",US CBS Sports Network HD Backup NO_5 alliptvlinks.com
+http://fortv.cc:8080/6SHyY6/595088/10454
+
